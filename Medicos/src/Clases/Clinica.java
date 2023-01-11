@@ -11,6 +11,7 @@ import Clases.Medico.TipoMedico;
 public class Clinica {
 
     private String nombre;
+    private String nombre2;
     private String direccion;
     private Medico[] medicos;
     private static final int MAX = 100;
@@ -53,6 +54,50 @@ public class Clinica {
      *
      * @param pos
      * @return
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
      */
     public Medico getMedico(int pos) {
         Medico ret;
